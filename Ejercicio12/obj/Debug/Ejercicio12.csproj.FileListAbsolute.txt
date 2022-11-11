@@ -1,0 +1,8 @@
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\obj\Debug\Ejercicio12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\Alumno\Desktop\Scerbo\Ejercicio12\obj\Debug\Ejercicio12.pdb
