@@ -1,8 +1,0 @@
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\bin\Debug\Ejercicio13.exe.config
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\bin\Debug\Ejercicio13.exe
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\bin\Debug\Ejercicio13.pdb
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\obj\Debug\Ejercicio13.csproj.AssemblyReference.cache
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\obj\Debug\Ejercicio13.csproj.SuggestedBindingRedirects.cache
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\obj\Debug\Ejercicio13.exe
-C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio13\obj\Debug\Ejercicio13.pdb
