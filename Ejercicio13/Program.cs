@@ -85,7 +85,7 @@ namespace Ejercicio13
 
             productos[0] = new Producto("Producto 1", 5);
             productos[1] = new Perecedero(1, "Coca Cola ", 300);
-            productos[2] = new NoPerecedero("Tipo 1", "Producto 3", 10);
+            productos[2] = new NoPerecedero("Tipo 1", "Arroz", 10);
 
             Console.WriteLine("PRECIOS SIN CALCULAR");
             Console.WriteLine("Productos: $" + productos[0].PRECIO);
