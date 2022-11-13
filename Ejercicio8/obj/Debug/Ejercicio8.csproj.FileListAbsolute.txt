@@ -1,0 +1,8 @@
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\obj\Debug\Ejercicio8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Scerbo\Desktop\Laboratorio5to_Scerbo\Ejercicio8\obj\Debug\Ejercicio8.pdb
