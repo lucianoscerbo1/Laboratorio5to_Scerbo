@@ -1,4 +1,4 @@
-**Laboratorio5to_Scerbo**
+
 
 # Programación Orientada a Objetos
 ## Alumno: Luciano Scerbo
